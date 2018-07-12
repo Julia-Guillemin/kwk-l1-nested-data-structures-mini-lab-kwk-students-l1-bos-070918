@@ -25,7 +25,7 @@ capitals = {"MA" => "Boston",
 	 		"CO" => "Denver"}
 
 def states["Massachusetts"]
-  puts "Boston"
+  puts capital == "Boston"
 end
 
 states
