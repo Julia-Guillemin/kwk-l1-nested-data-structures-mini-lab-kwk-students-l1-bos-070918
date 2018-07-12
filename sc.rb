@@ -39,4 +39,16 @@ puts "What state do you want to know the capital of?"
 	 	puts "New Jersey"["Trenton"["NJ"]]
 	 	puts "Colorado"["Denver"["CO"]]
 
+puts "What state would you like to know the capital of?"
+given = gets.chomp
+
+puts capitals[states[given]]
+capital = capitals[states[given]]
+
+puts "The capital of #{given} is #{capital}."
+
+
+city = "Denver"
+puts states.key(cacpital.key(city))
+
 Add CommentCollapse 
