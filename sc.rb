@@ -25,7 +25,7 @@ capitals = {"MA" => "Boston",
 	 		"CO" => "Denver"}
 
 given = "Massachusetts"
-  puts capital[states[given]]
+  puts capitals[states[given]]
 end
 
 
