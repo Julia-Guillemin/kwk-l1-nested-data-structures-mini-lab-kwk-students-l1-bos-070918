@@ -6,4 +6,7 @@ chariter_list ={
   "Rachle" => "Devorcec"
 }
 
-chariter_list.each do |
+chariter_list.each do |chariter_name, chariteristic|
+  puts "chariter_name: #{chariter_name}"
+  puts "chariteristic: #{chariteristic}"
+end
