@@ -24,7 +24,8 @@ capitals = {"MA" => "Boston",
 			"NJ" => "Trenton",
 	 		"CO" => "Denver"}
 
-def states_capitals do |
+def states_capitals do |states, capitals|
+  
 
 given = "Massachusetts"
   puts "Boston"["Massachusetts"["MA"]]
