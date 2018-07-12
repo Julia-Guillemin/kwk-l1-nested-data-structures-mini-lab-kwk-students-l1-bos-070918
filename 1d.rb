@@ -10,8 +10,12 @@ one_direction.each do |names_1D, ages_1D|
   puts "name #{names_1D} is ages: #{ages_1D} years old"
 end
 
-ages = 0
+sum = 0
+one_direction.each do |name,age|
+  sum += age 
+end
 
+puts sum / one_direction.counts
 
 # How can you print out all of the members and their ages like the following:
 # Zayn is 25 years old.
