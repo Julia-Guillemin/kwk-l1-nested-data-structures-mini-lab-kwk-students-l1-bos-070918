@@ -30,6 +30,9 @@ end
 
 puts "What state do you want to know the capital of?"
 	 	given = gets.chomp
-	 	puts capitals[states[given]]
+	 	puts "Boston"["Massachusetts"["MA"]]
+	 	puts "Wisconsin"["Madison"["WI"]]
+	 	puts "New Jersey"["Trenton"["NJ"]]
+	 	puts "Colorado"["Denver"["CO"]]
 
 Add CommentCollapse 
