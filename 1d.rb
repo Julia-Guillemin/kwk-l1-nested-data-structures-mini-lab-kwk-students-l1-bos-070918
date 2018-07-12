@@ -5,7 +5,10 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 
-
+one_direction.each do |, |
+  puts "name: #{student_name}"
+  puts "celebrity: #{celeb}"
+end
 
 # How can you print out all of the members and their ages like the following:
 # Zayn is 25 years old.
