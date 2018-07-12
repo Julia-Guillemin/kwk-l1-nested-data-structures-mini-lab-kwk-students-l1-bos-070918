@@ -5,6 +5,8 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 
+names
+
 one_direction.each do |, |
   puts "name: #{student_name}"
   puts "celebrity: #{celeb}"
