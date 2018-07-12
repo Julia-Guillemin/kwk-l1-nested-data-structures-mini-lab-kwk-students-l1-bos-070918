@@ -25,7 +25,7 @@ capitals = {"MA" => "Boston",
 	 		"CO" => "Denver"}
 
 def states_capitals do |states, capitals|
-  
+  puts "states #{"
 
 given = "Massachusetts"
   puts "Boston"["Massachusetts"["MA"]]
