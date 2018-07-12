@@ -24,7 +24,7 @@ capitals = {"MA" => "Boston",
 			"NJ" => "Trenton",
 	 		"CO" => "Denver"}
 
-def Massachusetts
+def states[Massachusetts]
   puts Boston
 end
 
