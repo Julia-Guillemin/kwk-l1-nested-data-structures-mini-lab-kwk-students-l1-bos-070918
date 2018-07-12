@@ -5,8 +5,9 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 
-
-
+one_direction.each do |names_1D, ages_1D|
+  puts " #{names_1D} is #{ages_1D} years old"
+end
 
 sum = 0
 one_direction.each do |name,age|
