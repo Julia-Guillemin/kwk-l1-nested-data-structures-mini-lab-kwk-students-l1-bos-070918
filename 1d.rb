@@ -5,7 +5,7 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 
-names
+names_1D["Zayn", ]
 
 one_direction.each do |, |
   puts "name: #{student_name}"
