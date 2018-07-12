@@ -24,10 +24,10 @@ capitals = {"MA" => "Boston",
 			"NJ" => "Trenton",
 	 		"CO" => "Denver"}
 
-def states[Massachusetts]
-  puts Boston
+def states["Massachusetts"]
+  puts "Boston"
 end
 
-Massachusetts
+states
 
 Add CommentCollapse 
