@@ -24,6 +24,8 @@ capitals = {"MA" => "Boston",
 			"NJ" => "Trenton",
 	 		"CO" => "Denver"}
 
+def 
+
 given = "Massachusetts"
   puts "Boston"["Massachusetts"["MA"]]
 end
