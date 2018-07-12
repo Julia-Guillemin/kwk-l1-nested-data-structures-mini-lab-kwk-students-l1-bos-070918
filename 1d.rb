@@ -5,11 +5,13 @@ one_direction = {"Zayn" => 25,
                  "Niall" => 24 
 }
 
-names_1D["Zayn", ]
+names_1D["Zayn", "Liam", "Louis", "Harry", "Niall"]
 
-one_direction.each do |, |
-  puts "name: #{student_name}"
-  puts "celebrity: #{celeb}"
+ages_1D[25, 24, 26, 24, 24]
+
+one_direction.each do |names_1D, ages_1D|
+  puts "name: #{names_1D}"
+  puts "ages: #{ages_1D}"
 end
 
 # How can you print out all of the members and their ages like the following:
