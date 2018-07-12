@@ -7,6 +7,5 @@ chariter_list ={
 }
 
 chariter_list.each do |chariter_name, chariteristic|
-  puts "chariter_name: #{chariter_name}"
-  puts "chariteristic: #{chariteristic}"
+  puts "chariter_name: #{chariter_name} chariteristic: #{chariteristic}"
 end
